@@ -1,2 +1,3 @@
-Group Name: 67
-Project: Employee Assessment System
+> **Project Information**
+> - **Group name**: 67
+> - **Project name**: Employee Assessment System
