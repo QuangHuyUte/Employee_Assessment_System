@@ -1,0 +1,23 @@
+{
+  "name": "employee_assessment_system",
+  "version": "1.0.0",
+  "description": "> **Project Information**\r > - **Group name**: 67\r > - **Project name**: Employee Assessment System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuangHuyUte/Employee_Assessment_System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuangHuyUte/Employee_Assessment_System/issues"
+  },
+  "homepage": "https://github.com/QuangHuyUte/Employee_Assessment_System#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.105.4"
+  }
+}
